@@ -1,7 +1,16 @@
 # Excel Assignment 2: Data Cleaning and Transformatiom
-A comprehensive data cleaning, transformation, and formatting project using Google Sheets / Excel. Covers missing value imputation, text standardization, duplicate removal, column splitting/merging, custom date/currency formatting, and advanced conditional formatting rules.
+In this Repository, I did comprehensive data cleaning, transformation, and formatting project using Google Sheets / Excel. Covers missing value imputation, text standardization, duplicate removal, column  splitting and merging, custom date and
+currency formatting, and advanced conditional formatting rules.
+This Dataset Consist of :
+*Product ID
+*Product Name 
+*Brand Name
+*Price 
+*Quantity
+*Category
 
-## Key Tasks & Implementation Steps
+## Objective and Implementation steps
+
 
 ### 1. Handling Missing Values
 * **Price Column:** Checked for missing values and established a strategy.
